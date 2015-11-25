@@ -3,3 +3,5 @@
 
 name = input()
 print('Hello,', name)
+print("1024*768=",1024*768)
+
